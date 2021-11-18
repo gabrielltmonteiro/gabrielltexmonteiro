@@ -1,2 +1,2 @@
-# Site Feito em Rápida viagem de ônibus
-Continuarei em em breve. 
+<h1>Web site Pessoal / Portifólio</h1>
+<p>Desenvolvi em cerca de 1 ou 2 horas em viagem de ônibus em 2018. Pretendo utilizar como base, e seguir desenvolvendo o portfólio para hospedá-lo e utilizar como web-currículo. Sintam-se a vontade para criar forks e utilizá-lo como queiram!</p>

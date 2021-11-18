@@ -1,5 +1,4 @@
 @charset "utf-8";
-/* CSS Document */
 
 body {
     background:url(imagens/fundo.png)#171717 repeat-x !important;
@@ -8,15 +7,11 @@ body {
 	margin:auto;	
 }
 
-
-
 #main{
    width:100%;
    height:100%;
    padding:0px; 
 }
-
-
 
 #banner{
     position: float;
@@ -72,8 +67,6 @@ body {
   text-align: center;
   /*border-left:10px solid #0b0b0b;*/
 }
-
-
 
 h1{
     color: #d2d2d2;
